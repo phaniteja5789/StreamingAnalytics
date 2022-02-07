@@ -1,11 +1,16 @@
 # StreamingAnalytics
 This project perform Analytics on Streaming Data.
 
+Flow Diagram of the Project
+
+![image](https://user-images.githubusercontent.com/36558484/152830762-0b3dd11d-f54a-4d22-b7a0-76cdd81ab765.png)
+
+
 **DataSimulator.py**
 
 Python File generates JSON Messages that are appended to a File with name TemperatureRecorded.txt
 
-Exceution Command:
+**Exceution Command:**
 
 python DataSimulator.py 100
 
